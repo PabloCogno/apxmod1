@@ -1,4 +1,4 @@
-<h1 align="center"> # APX challenge 1. Which player will win the game? </h1>
+<h1 align="center"> APX challenge 1. Which player will win the game? </h1>
 
 
 <h3 align="left">Description: </h3>
